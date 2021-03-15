@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=manukj&count_private=true&show_icons=true&include_all_commits=true&custom_title=My%20Github%20Stats)
+
 <!--
 **manukj/manukj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
