@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=manukj&count_private=true&show_icons=true&include_all_commits=true&custom_title=My%20Github%20Stats)
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manukj&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manukj&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards) 
+
 
 <!--
 **manukj/manukj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
